@@ -39,4 +39,4 @@ Compared word cloud for two novels.
 Please see additional findings on ChatBot in the following files:
 
 * [ANLP ChatBot Sherlock Holmes](https://github.com/KSohi-max/Sherlock_Holmes_NLP/blob/main/Final_Term_Project_3666_03_ANLP_ChatBot_Sherlock_Holmes_Trivia.ipynb)
-* [Presentation]()
+* [Presentation](https://github.com/KSohi-max/Sherlock_Holmes_NLP/blob/main/ChatBot%20w%20Sherlock%20Holmes_3666_03_ANLP_FINAL.pdf)
